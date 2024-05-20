@@ -1,0 +1,22 @@
+<h2>Edit Team</h2>
+<form action="/update_team" method="post">
+    <input type="hidden" name="original_name" value="{{ team[0] }}">
+    
+    <label for="team_name">Team Name:</label>
+    <input type="text" name="team_name" id="team_name" value="{{ team[0] }}" required><br>
+    
+    <label for="established">Established Date (YYYY-MM-DD):</label>
+    <input type="date" name="established" id="established" value="{{ team[1].strftime('%Y-%m-%d') }}" required><br>
+    
+    <label for="type">Type:</label>
+    <input type="text" name="type" id="type" value="{{ team[2] }}" required><br>
+    
+    <label for="owner_id">Owner ID:</label>
+    <input type="text" name="owner_id" id="owner_id" value="{{ team[3] }}" required><br>
+    
+    <label for="mgr_id">Manager ID:</label>
+    <input type="text" name="mgr_id" id="mgr_id" value="{{ team[4] }}" required><br>
+    
+    <button type="submit">Update Team</button>
+</form>
+
