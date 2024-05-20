@@ -53,7 +53,7 @@ This is a list of already added teams into the databse as an example:
 Now for demonstration, if we wanted to add a new team called "Real Madrid" for example, the following fields should be added as shown. We then click "Add Team" and the database will result the following:
 
 
-<img src="https://github.com/RazanDoughman/FootballApp/blob/main/public/pic3.png" alt="screenshot" width="400" /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://github.com/RazanDoughman/FootballApp/blob/main/public/pic4.png" alt="screenshot" width="400" />
+<img src="https://github.com/RazanDoughman/FootballApp/blob/main/public/pic3.png" alt="screenshot" width="400" /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://github.com/RazanDoughman/FootballApp/blob/main/public/pic4.png" alt="screenshot" width="400" />
 
 \
 \
@@ -61,13 +61,13 @@ Now for demonstration, if we wanted to add a new team called "Real Madrid" for e
 \
 We can also edit a field in a team by choosing "Edit" next to the wanted team in the Team List space. The "Edit" option will let you modify any category for that team, and then choosing the "Update Team" will result in an updated version in the database. This is presented down below as:
 
-<img src="https://github.com/RazanDoughman/FootballApp/blob/main/public/pic6.png" alt="screenshot" width="400"/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://github.com/RazanDoughman/FootballApp/blob/main/public/pic7.png" alt="screenshot" width="400"/>
+<img src="https://github.com/RazanDoughman/FootballApp/blob/main/public/pic6.png" alt="screenshot" width="400"/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://github.com/RazanDoughman/FootballApp/blob/main/public/pic7.png" alt="screenshot" width="400"/>
 
 \
 \
 Moreover, we have the choice to delete a whole team from our "Team List" by choosing the "Delete" option next to the wanted team and agreeing to the pop notification that will appear. The whole team with its information will be deleted completely from our database as follows:
 
-<img src="https://github.com/RazanDoughman/FootballApp/blob/main/public/pic8.png" alt="screenshot" width="400"/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://github.com/RazanDoughman/FootballApp/blob/main/public/pic9.png" alt="screenshot" width="400"/>
+<img src="https://github.com/RazanDoughman/FootballApp/blob/main/public/pic8.png" alt="screenshot" width="400"/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://github.com/RazanDoughman/FootballApp/blob/main/public/pic9.png" alt="screenshot" width="400"/>
 ## Authors
 
 - [@RazanDoughman](https://github.com/RazanDoughman)
