@@ -47,6 +47,9 @@ This is a list of already added teams into the databse as an example:
 
 <img src="https://github.com/RazanDoughman/FootballApp/blob/main/public/pic2.png" alt="screenshot" width="500"/>
 
+\
+\
+\
 Now for demonstration, if we wanted to add a new team called "Real Madrid" for example, the following fields should be added as shown. We then click "Add Team" and the database will result the following:
 
 
